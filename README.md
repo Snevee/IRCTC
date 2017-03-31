@@ -25,6 +25,10 @@ The Page title length of your page is 39 characters. Most search engines will tr
 <td>Meta keywords not Found : Google Does not accept meta keywords any more..</td>
 </tr>
 <tr>
+<td> Site Map </td>
+<td> 1 sitemap</td>
+</tr>
+<tr>
 <td>Robots.txt</td>
 <td>404- Page not Found.
 site use a "robots.txt" file: http://irctc.co.in/robots.txt</td>
