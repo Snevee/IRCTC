@@ -22,19 +22,12 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <td>Page title can be upto 65 characters.</td>
 </tr>
 <tr>
-<td>Meta Description</td> 
-<td>NOT FOUND </td>
-<td>The meta description length of this page 0 characters.</td>
-<td>Most search engines will truncate meta descriptions to 160 characters.</td>
-</tr>
-<tr>
 <td>Meta Description</td>
 <td>NOT FOUND </td>
 <td>Their is no meta description in the page.<p>
  Meta descriptions can be upto 160 characters. </td> 
-<td>Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<p>
-<b>Meta description suggestion </b> : Indian Railway Catering and Tourism Corporation (IRCTC), is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations of the Indian railways. It pioneered internet-based rail ticket booking through its website, as well as from the mobile phones via WiFi, GPRS or SMS.</td>
-
+<td> Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<p>
+<b>Meta description suggestion </b> : Indian Railway Catering and Tourism Corporation (IRCTC), is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations of the Indian railways. It pioneered internet-based rail ticket booking through its website, as well as from the mobile phones via WiFi, GPRS or SMS. </td>
 </tr>
 <tr>
 <td> Meta Keywords</td>
@@ -42,7 +35,7 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <td>Meta keywords are not found</td>
 <td> Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<p>
 Keywords such as <b>E-WHEELCHAIR</b>, <b>IRCTC TOURISM </b>, <b> Travel Insurance </b>
- can be used.
+ can be used.<br>
 <b>Google Does not accept meta keywords any more.</b></td>
 </tr>
 <tr>
