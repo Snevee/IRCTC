@@ -142,7 +142,7 @@ Web site owners use the /robots.txt file to give instructions about their site t
     <tr><td>54</td>
     </tr>
 </table>
-<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"/></a>
+<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a>
 <body/>
 <html/>
 
