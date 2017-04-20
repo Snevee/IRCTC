@@ -54,7 +54,7 @@ Keywords such as <b>E-WHEELCHAIR</b>, <b>IRCTC TOURISM </b>, <b> Travel Insuranc
 <tr>
 <td>Robots.txt</td>
 <td>Not Found</td>
-<td>This site does uses "robots.txt" file <br> http://irctc.co.in/robots.txt </td>
+<td>This site does uses "robots.txt" file <br> <a href="http://irctc.co.in/robots.txt"> ROBOTS.TXT</a></td>
 <td>Robots.txt is a text file webmasters create to instruct robots (typically search engine robots) how to crawl and index pages on their website. 
 Web site owners use the /robots.txt file to give instructions about their site to web robots. It tells the robot that it should not visit any pages on the site.</td>
 </tr>
